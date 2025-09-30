@@ -1,5 +1,5 @@
 // phase1.java.chapter1/fleet/model/Drivable.java
-package phase1.java.oop.fleet.model;
+package phase1.oop.fleet.model;
 
 interface Drivable {
     void start();

@@ -1,7 +1,10 @@
 // phase1.java.chapter1/fleet/demo/VehicleDemo.java
-package phase1.java.oop.fleet.demo;
+package phase1.oop.fleet.demo;
 
 import phase1.java.oop.fleet.model.*;
+import phase1.oop.fleet.model.Bicycle;
+import phase1.oop.fleet.model.Car;
+import phase1.oop.fleet.model.Vehicle;
 
 public class VehicleDemo {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
 // phase1.java.chapter1/fleet/model/Car.java
-package phase1.java.oop.fleet.model;
+package phase1.oop.fleet.model;
 
 public class Car extends Vehicle {
     int numDoors; // ✅ Only new field
